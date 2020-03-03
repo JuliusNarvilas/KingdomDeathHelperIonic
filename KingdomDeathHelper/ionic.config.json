@@ -1,0 +1,7 @@
+{
+  "name": "KingdomDeathHelper",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
